@@ -1,0 +1,162 @@
+[
+	{
+		"startDateTime": "20-Jan-23 23:00",
+		"endDateTime": "20-Jan-23 23:15",
+		"sleepDuration": 15
+	},
+	{
+		"startDateTime": "20-Jan-23 23:00",
+		"endDateTime": "20-Jan-23 23:15",
+		"sleepDuration": 15
+	},
+	{
+		"startDateTime": "20-Jan-23 23:00",
+		"endDateTime": "20-Jan-23 23:15",
+		"sleepDuration": 15
+	},
+    {
+		"startDateTime": "20-Jan-23 23:20",
+		"endDateTime": "20-Jan-23 23:55",
+		"sleepDuration": 35
+	},
+    {
+		"startDateTime": "20-Jan-23 23:20",
+		"endDateTime": "20-Jan-23 23:55",
+		"sleepDuration": 35
+	},
+    {
+		"startDateTime": "20-Jan-23 23:55",
+		"endDateTime": "21-Jan-23 00:18",
+		"sleepDuration": 23
+	},
+    {
+		"startDateTime": "21-Jan-23 00:20",
+		"endDateTime": "21-Jan-23 00:37",
+		"sleepDuration": 17
+	},
+    {
+		"startDateTime": "21-Jan-23 00:20",
+		"endDateTime": "21-Jan-23 00:37",
+		"sleepDuration": 17
+	},
+    {
+		"startDateTime": "21-Jan-23 00:38",
+		"endDateTime": "21-Jan-23 02:10",
+		"sleepDuration": 92
+	},
+    {
+		"startDateTime": "21-Jan-23 00:38",
+		"endDateTime": "21-Jan-23 02:10",
+		"sleepDuration": 92
+	},
+    {
+		"startDateTime": "21-Jan-23 00:38",
+		"endDateTime": "21-Jan-23 02:10",
+		"sleepDuration": 92
+	},
+    {
+		"startDateTime": "21-Jan-23 00:38",
+		"endDateTime": "21-Jan-23 02:10",
+		"sleepDuration": 92
+	},
+    {
+		"startDateTime": "21-Jan-23 02:10",
+		"endDateTime": "21-Jan-23 02:18",
+		"sleepDuration": 8
+	},
+    {
+		"startDateTime": "21-Jan-23 02:22",
+		"endDateTime": "21-Jan-23 02:35",
+		"sleepDuration": 13
+	},
+    {
+		"startDateTime": "21-Jan-23 02:36",
+		"endDateTime": "21-Jan-23 02:48",
+		"sleepDuration": 12
+	},
+    {
+		"startDateTime": "21-Jan-23 02:36",
+		"endDateTime": "21-Jan-23 02:48",
+		"sleepDuration": 12
+	},
+    {
+		"startDateTime": "21-Jan-23 02:48",
+		"endDateTime": "21-Jan-23 03:33",
+		"sleepDuration": 45
+	},
+    {
+		"startDateTime": "21-Jan-23 02:48",
+		"endDateTime": "21-Jan-23 03:33",
+		"sleepDuration": 45
+	},
+    {
+		"startDateTime": "21-Jan-23 02:20",
+		"endDateTime": "21-Jan-23 03:35",
+		"sleepDuration": 75
+	},
+    {
+		"startDateTime": "21-Jan-23 02:20",
+		"endDateTime": "21-Jan-23 03:35",
+		"sleepDuration": 75
+	},
+    {
+		"startDateTime": "21-Jan-23 03:36",
+		"endDateTime": "21-Jan-23 03:49",
+		"sleepDuration": 13
+	},
+    {
+		"startDateTime": "21-Jan-23 03:49",
+		"endDateTime": "21-Jan-23 04:12",
+		"sleepDuration": 23
+	},
+    {
+		"startDateTime": "21-Jan-23 03:49",
+		"endDateTime": "21-Jan-23 04:12",
+		"sleepDuration": 23
+	},
+    {
+		"startDateTime": "21-Jan-23 04:12",
+		"endDateTime": "21-Jan-23 04:42",
+		"sleepDuration": 30
+	},
+    {
+		"startDateTime": "21-Jan-23 04:12",
+		"endDateTime": "21-Jan-23 04:42",
+		"sleepDuration": 30
+	},
+    {
+		"startDateTime": "21-Jan-23 04:43",
+		"endDateTime": "21-Jan-23 05:05",
+		"sleepDuration": 22
+	},
+    {
+		"startDateTime": "21-Jan-23 03:49",
+		"endDateTime": "21-Jan-23 05:15",
+		"sleepDuration": 86
+	},
+    {
+		"startDateTime": "21-Jan-23 03:49",
+		"endDateTime": "21-Jan-23 05:15",
+		"sleepDuration": 86
+	},
+    {
+		"startDateTime": "21-Jan-23 03:49",
+		"endDateTime": "21-Jan-23 05:35",
+		"sleepDuration": 106
+	},
+    {
+		"startDateTime": "21-Jan-23 05:36",
+		"endDateTime": "21-Jan-23 06:10",
+		"sleepDuration": 34
+	},
+    {
+		"startDateTime": "21-Jan-23 05:36",
+		"endDateTime": "21-Jan-23 06:10",
+		"sleepDuration": 34
+	},
+    {
+		"startDateTime": "21-Jan-23 06:10",
+		"endDateTime": "21-Jan-23 07:20",
+		"sleepDuration": 70
+	}
+]
